@@ -1,4 +1,4 @@
-# RK4 Numerical Solver for Stiff Chemical Kinetics ODEs
+# RK4 Numerical Solver for Stiff and non-Stiff Chemical Kinetics ODEs
 
 ## Overview
 A Python-based numerical solver using the 4th-order Runge-Kutta (RK4) method 
