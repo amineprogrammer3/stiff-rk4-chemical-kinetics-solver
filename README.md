@@ -17,7 +17,7 @@ defined and solved using the same RK4 engine.
 ## Results
 
 <p align="center">
-  <img src="images/Solved_Westbrook_Dryer_Methane_Combustion_reduced_mechanism.png.png" alt="Solved Westbrook & Dryer Methane Combustion reduced mechanism" width="600">
+  <img src="images/Solved_Westbrook_Dryer_Methane_Combustion_reduced_mechanism_Oxidation.png.png" alt="Solved Westbrook & Dryer Methane Combustion reduced mechanism" width="600">
 </p>
 
 
